@@ -1,0 +1,6 @@
+@BridgeMonitorAPI_HostAddress = http://localhost:5249
+
+GET {{BridgeMonitorAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
